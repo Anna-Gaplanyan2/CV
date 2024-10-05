@@ -1,0 +1,41 @@
+h3:hover{
+color: white;
+font-size: xx-large;
+outline-style: ridge;
+outline-color: white;
+}
+
+h2{
+color: white;
+text-decoration: underline;
+}
+
+body{
+background: #f8bdc6;
+}
+
+li:hover{
+color: #E6E6FA;
+}
+
+table, th, td {
+color: white;
+border-style: solid;
+border-left-color: #D8BFD8;
+border-right-color: #00ffbf;
+border-top-color: #0080ff;
+border-bottom-color:#0000ff;
+}
+
+.Cartoon{
+color: black;
+background-color;
+outline-style: solid;
+outline-color: #ff00ff;
+}
+
+#parag {
+font-style: italic;
+color: white;
+background-color: #ff0080;
+}
